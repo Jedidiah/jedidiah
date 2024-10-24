@@ -1,8 +1,8 @@
-👋 Hello my name is Jedidiah. I’m a creative developer based in Glasgow, Scotland. I enjoy building software for mobile, desktop and web; I’ve been lucky enough to have been [doing it professionally](https://jedidiah.dev/#work) for over 15 years. 
+👋 Hello my name is Jedidiah. I’m a creative developer based in Glasgow, Scotland. I enjoy building software for mobile, desktop and web; I’ve been lucky enough to have been [doing it professionally](https://jedidiah.dev/experience/) for over 15 years. 
 
 With a background originally in graphic design and animation nowadays I'm firmly in the developer camp but I still love working at the intersection where design and engineering come together. As a generalist I go where I’m needed and can make the most impact. The majority of my recent work has been in React Native or frontend/JamStack.
 
-I’m currently taking on contracts up to 6 months in length (outside IR35), if you’d like to chat about working together please [get in touch](mailto:jedidiah@ursaluna.studio).
+If you’d like to chat about working together please [get in touch](mailto:jedidiah@ursaluna.studio).
 
 <!--
 **Jedidiah/jedidiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
